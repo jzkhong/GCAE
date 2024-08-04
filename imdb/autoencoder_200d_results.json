@@ -1,1 +1,1 @@
-{"embedding_dim": 200, "accuracy": 0.8528, "training_time": 556.7602844238281, "model_path": "imdb\\autoencoder_200d.keras", "history_path": "imdb\\autoencoder_200d_history.json"}
+{"embedding_dim": 200, "accuracy": 0.8533, "training_time": 1614.932450056076, "model_path": "imdb\\autoencoder_200d.keras", "history_path": "imdb\\autoencoder_200d_history.json"}
